@@ -1,2 +1,4 @@
+9c35c11 extract switch
+71e880f Task 1.2
 19f20eb Task 1.1
 e035d36 Initial commit
