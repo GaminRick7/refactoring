@@ -1,3 +1,4 @@
+e269a58 Task 2.2
 134eb67 Task 2.1
 9c35c11 extract switch
 71e880f Task 1.2
